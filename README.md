@@ -1,18 +1,18 @@
-# **Hey there 👋, I'm Umang Raj** 
-
-**Aspiring Software Development Engineer**
-
----
-[![](https://visitcount.itsvg.in/api?id=UmangRaj22&icon=5&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">Hey there 👋, I'm Umang Raj</h1>
+<h3 align="center">Aspiring Software Development Engineer</h3>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=UmangRaj22&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 # 💫 About Me:
-🔭 Currently building web-based projects with real-world use cases  
-🌱 Actively learning Python, Flask, Django, and modern web technologies  
-🧠 Passionate about problem-solving, clean architecture, and scalable systems  
-🤝 Open to collaborating on impactful software engineering projects  
-⚡ Focused on continuous learning, consistency, and long-term growth as a developer  
+
+- 🔭 Currently building web-based projects with real-world use cases  
+- 🌱 Actively learning Python, Flask, Django, and modern web technologies  
+- 🧠 Passionate about problem-solving, clean architecture, and scalable systems  
+- 🤝 Open to collaborating on impactful software engineering projects  
+- ⚡ Focused on continuous learning, consistency, and long-term growth as a developer  
 
 ---
 
@@ -21,7 +21,8 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack & Skills: 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
