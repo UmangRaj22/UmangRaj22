@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=UmangRaj22&label=Profile%20Views&color=0e75b6&style=flat&cacheSeconds=60" />
 </p>
 
@@ -65,12 +65,12 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=UmangRaj22&theme=merko&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60" height="180em"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=UmangRaj22&theme=merko&hide_border=false&cache_seconds=60" height="180em"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangRaj22&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60" height="150em"/>
 </p>
 
@@ -81,10 +81,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmangRaj22&theme=merko"/>
 </p>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UmangRaj22&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
