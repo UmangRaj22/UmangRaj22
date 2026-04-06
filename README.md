@@ -60,18 +60,20 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-22c55e?style=flat-square&logo=next.js&logoColor=black)
 
 ---
 
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmangRaj22&theme=merko&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60" height="180em"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UmangRaj22&theme=merko&hide_border=false&cache_seconds=60" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  
+  <img src="https://streak-stats.demolab.com?user=UmangRaj22&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangRaj22&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
 </p>
 
 ---
