@@ -19,15 +19,6 @@
 
 ---
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/umang-raj-au0806">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
 # 💻 Tech Stack & Skills: 
 
 ### 👨‍💻 Programming Languages
@@ -64,17 +55,24 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-  
-  <img src="https://streak-stats.demolab.com?user=UmangRaj22&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight&hide_border=true" height="150em"/>
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in connecting with fellow developers, discussing interesting projects, and exploring collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umangraj22)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:umangraj410@gmail.com.com)
 
 ---
 
