@@ -59,9 +59,11 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight&count_private=true)
+<img src="https://streak-stats.demolab.com?user=UmangRaj22&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight" />
 
 </div>
 
