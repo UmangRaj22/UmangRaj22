@@ -88,6 +88,6 @@
 I'm always interested in connecting with fellow developers, discussing interesting projects, and exploring collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umangraj22)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:umangraj410@gmail.com.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:umangraj410@gmail.com)
 
 ---
