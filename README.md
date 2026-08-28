@@ -61,19 +61,11 @@
 
 <img src="https://streak-stats.demolab.com?user=UmangRaj22&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-black-two-27.vercel.app//api?username=UmangRaj22&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-black-two-27.vercel.app//api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight" />
 
 </div>
-
----
-
-# 📈 Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmangRaj22&theme=merko"/>
-</p>
 
 ---
 
