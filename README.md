@@ -1,11 +1,13 @@
-<h1 align="center">Hey, I'm Umang Raj 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=Hey%2C%20I'm%20Umang%20Raj%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;AI+%26+Developer+Tools;Building+%26+Shipping+Real+Projects" />
 </p>
 
 <p align="center">
-  <strong>Software Developer · Builder · Open Source Contributor</strong>
+  <strong>Software Developer</strong>
 </p>
 
 <p align="center">
@@ -30,14 +32,15 @@ I build software projects that turn ideas into usable products.
 
 Currently focused on:
 
-* 🧩 Full-stack web development
-* 🐍 Python, Django & Flask
-* ⚡ JavaScript, Next.js & modern frontend development
-* 🤖 AI-powered developer tools and applications
-* 🏗️ APIs, backend architecture and deployment
-* 🔧 Building and shipping projects rather than just tutorials
+* ⚛️ Building modern frontend applications with React and Next.js
+* ⚡ Working with TypeScript and JavaScript for scalable web applications
+* 🧩 Developing backend services and REST APIs with Node.js
+* 🐍 Working with Python, Django & Flask
+* 🤖 Exploring AI-powered applications and developer tools
+* 🏗️ Learning backend architecture, databases, APIs and deployment
+* 🔧 Building and shipping real-world projects
 
-I enjoy working across the stack — from designing interfaces to building APIs, integrating external services, and deploying applications.
+I enjoy working across the stack from designing interfaces to building APIs, integrating external services, and deploying applications.
 
 <br clear="right"/>
 
@@ -63,6 +66,10 @@ AI-powered VS Code extension for understanding and fixing code.
   <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://marketplace.visualstudio.com/items?itemName=UmangRaj22.devexplain">
+  <img src="https://img.shields.io/badge/Marketplace-6366F1?style=for-the-badge" />
+</a>
+
 </td>
 
 <td width="50%">
@@ -77,7 +84,7 @@ Code-to-image web application for creating shareable code snippets.
 * Django + Pygments + Pillow
 * Deployed on Render
 
-<a href="https://codeshot-zrak.onrender.com">
+<a href="https://codeshotstudio.vercel.app/">
   <img src="https://img.shields.io/badge/Live_App-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -126,26 +133,28 @@ Currently experimenting with:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&perline=5" />
 </p>
 
 ### Frontend & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,django,flask,nodejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,django,flask,nodejs&perline=8" />
 </p>
 
 ### Databases & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify&perline=6" />
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify,render&perline=7" />
+</div>
 
 ### Data & AI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&perline=4" />
-</p>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+</div>
 
 ---
 
