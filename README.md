@@ -145,7 +145,7 @@ Currently experimenting with:
 ### Databases & Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify,render&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,vercel,netlify,render&perline=10" />
 </div>
 
 ### Data & AI
