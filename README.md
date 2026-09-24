@@ -1,85 +1,203 @@
-<h1 align="center">Hey there 👋, I'm Umang Raj</h1>
-<h3 align="center">Aspiring Software Development Engineer</h3>
+<h1 align="center">Hey, I'm Umang Raj 👋</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;AI+%26+Developer+Tools;Building+%26+Shipping+Real+Projects" />
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=UmangRaj22&label=Profile%20Views&color=0e75b6&style=flat&cacheSeconds=60" />
+<p align="center">
+  <strong>Software Developer · Builder · Open Source Contributor</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/UmangRaj22">
+    <img src="https://img.shields.io/github/followers/UmangRaj22?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=UmangRaj22">
+    <img src="https://komarev.com/ghpvc/?username=UmangRaj22&label=Profile%20Views&style=flat" />
+  </a>
+  <a href="https://linkedin.com/in/umangraj22">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me:
+<img align="right" width="330" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer.gif" />
 
-- 🔭 Currently building web-based projects with real-world use cases  
-- 🌱 Actively learning Python, Flask, Django, and modern web technologies  
-- 🧠 Passionate about problem-solving, clean architecture, and scalable systems  
-- 🤝 Open to collaborating on impactful software engineering projects  
-- ⚡ Focused on consistency, growth, and becoming a top-tier software engineer  
+## 👨‍💻 About
 
----
+I build software projects that turn ideas into usable products.
 
-# 💻 Tech Stack & Skills: 
+Currently focused on:
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+* 🧩 Full-stack web development
+* 🐍 Python, Django & Flask
+* ⚡ JavaScript, Next.js & modern frontend development
+* 🤖 AI-powered developer tools and applications
+* 🏗️ APIs, backend architecture and deployment
+* 🔧 Building and shipping projects rather than just tutorials
 
----
+I enjoy working across the stack — from designing interfaces to building APIs, integrating external services, and deploying applications.
 
-### 🛠 Tools / Platforms
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+<br clear="right"/>
 
 ---
 
-### 📚 Libraries
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 DevExplain
+
+AI-powered VS Code extension for understanding and fixing code.
+
+* 200+ Marketplace downloads
+* AI code explanation
+* Automated bug fixing
+* Secure client-server architecture
+* TypeScript + Node.js + Groq
+
+<a href="https://github.com/UmangRaj22/DevExplain">
+  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📸 CodeShot
+
+Code-to-image web application for creating shareable code snippets.
+
+* Syntax highlighting
+* Multiple themes
+* PNG export
+* Django + Pygments + Pillow
+* Deployed on Render
+
+<a href="https://codeshot-zrak.onrender.com">
+  <img src="https://img.shields.io/badge/Live_App-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📅 UniSync
+
+Java desktop application for creating and managing college timetables.
+
+* Automated timetable generation
+* PDF export
+* Lab scheduling
+* Java Swing
+
+<a href="https://github.com/UmangRaj22/UniSync">
+  <img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔨 More Coming Soon...
+
+Currently experimenting with:
+
+* Backend systems
+* AI integrations
+* Developer tools
+* Full-stack applications
+
+<img src="https://img.shields.io/badge/Building...-F0883E?style=for-the-badge&logo=github" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-22c55e?style=flat-square&logo=next.js&logoColor=black)
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,django,flask,nodejs&perline=8" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel,netlify&perline=6" />
+</p>
+
+### Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&perline=4" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats-black-two-27.vercel.app/api?username=UmangRaj22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-black-two-27.vercel.app/api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=UmangRaj22&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-black-two-27.vercel.app//api?username=UmangRaj22&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-black-two-27.vercel.app//api/top-langs/?username=UmangRaj22&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/UmangRaj22/UmangRaj22/main/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UmangRaj22&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## 🐍 Contribution Activity
 
-I'm always interested in connecting with fellow developers, discussing interesting projects, and exploring collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umangraj22)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:umangraj410@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UmangRaj22/UmangRaj22/main/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
 
 ---
+
+## ⚡ Currently Building
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=700&lines=Learning+backend+architecture;Building+AI-powered+applications;Improving+system+design;Turning+ideas+into+deployed+products" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/umangraj22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:umangraj410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://umangraj.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Build → Ship → Learn → Repeat.</i>
+</p>
